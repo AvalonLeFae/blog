@@ -11,6 +11,11 @@ categories : [
 keywords : [                                
 "我的博客关键字000",
 ]
+disable_comment : false
+toc: true
+cover: ""
+aplayer: true
+dplayer: true
 ---
 这里是Markdown 正文
 

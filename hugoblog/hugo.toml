@@ -13,8 +13,6 @@ name = "Mélusine"
 email = "xx@xx.com"
 description = "Hollow Heart Albion"
 avatar = "https://fgo.wiki/images/0/0b/%E3%83%A1%E3%83%AA%E3%83%A5%E3%82%B8%E3%83%BC%E3%83%8C%E6%BB%A1%E7%A0%B4.png"
-
-
 # 菜单/导航栏
 [menu]
 # 顶部导航栏
@@ -80,7 +78,7 @@ docs = "/:section/:year:month:day:15:04/"
 [params]
 keywords = ['theme', 'kagome']
 description = ""
-mainSections = ["golang","extra","home"]
+mainSections = ["golang","extra","home","hugo","git"]
 # 国内备案号
 beian = ""
 # TOC目录出现字符长度限制

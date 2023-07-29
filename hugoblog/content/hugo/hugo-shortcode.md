@@ -1,7 +1,9 @@
 ---
 title: "Hugo Shortcode Example"
-date: 2023-07-25
+date: 2023-07-25T00:00:00+08:00
 draft: false
+aplayer: true
+dplayer: true
 ---
 # Shortcode示例
 
@@ -12,12 +14,10 @@ draft: false
 ## APlayer
 
 {{<aplayer url="//music.163.com/song/media/outer/url?id=449818930.mp3" name="夢想歌"  artist="米澤円">}}
-未完成
 
 ## DPlayer
 
 {{<dplayer url="//qiniu.sukoshi.xyz/attach/2019/04/majiko%20-%20%E5%BF%83%E5%81%9A%E3%81%97.mp4" pic="">}}
-未完成
 
 ## Youtube
 

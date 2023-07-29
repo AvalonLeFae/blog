@@ -4,7 +4,7 @@
     <div class="card-text">
       <a href="{{ .Permalink | safeURL }}"><h4 class="card-text--title">{{ .Title }}</h4></a>
 
-      <p class="card-text--row">{{- .Date.Format "2006-01-02" -}}</p>
+      <p class="card-text--row">{{- .Date.Format "2006/01/02 15:04" -}}</p>
       
       {{ $taxo := "categories" }}
       {{ with .Param $taxo }}
