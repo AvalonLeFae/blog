@@ -88,3 +88,8 @@ theme = "#b7daff"
 autoplay = false
 loop = false
 mutex = true
+
+[privacy]
+[privacy.disqus]
+#关闭评论页面
+disable = true

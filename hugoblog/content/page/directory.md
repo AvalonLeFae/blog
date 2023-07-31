@@ -8,8 +8,7 @@ menu:
     weight: "5"
     
 type: "page"
-layout:    
+layout: "directory" 
 url: "/directory"
 ---
-
-ddd
+按目录浏览

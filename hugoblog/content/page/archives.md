@@ -10,3 +10,4 @@ type: "page"
 layout: archives   #/_default/archives.html 如果没有则到themes的/_default/archives.html对应目录去找 ，也可也调用md文件比如xx.md
 url: "/archives"
 ---
+历史文件归档
