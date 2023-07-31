@@ -6,6 +6,12 @@ toc: true
 cover: "https://fgo.wiki/images/0/0b/%E3%83%A1%E3%83%AA%E3%83%A5%E3%82%B8%E3%83%BC%E3%83%8C%E6%BB%A1%E7%A0%B4.png"
 disable_comment: false
 description: ""
+tags : [
+  "Hugo","Kagome"
+]
+categories : [
+  "Hugo",
+]
 ---
 ## Front Matter
 

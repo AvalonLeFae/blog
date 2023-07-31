@@ -1,0 +1,16 @@
+#toml: key link should be a table, not a array table
+[1]
+name = "链接2"
+link = "https://example.com"
+avatar = "https://fgo.wiki/images/d/dc/%E9%87%91%E5%8D%A1Lancer.png"
+description = "这是链接1的描述"
+[2]
+name = "链接2"
+link = "https://example.org"
+avatar = "https://fgo.wiki/images/thumb/9/9b/%E9%93%B6%E5%8D%A1Saber.png/60px-%E9%93%B6%E5%8D%A1Saber.png"
+description = "这是链接2的描述"
+[3]
+name = "链接3"
+link = "https://example.org"
+avatar = "https://fgo.wiki/images/thumb/9/9b/%E9%93%B6%E5%8D%A1Saber.png/60px-%E9%93%B6%E5%8D%A1Saber.png"
+description = "这是链接3的描述"

@@ -6,6 +6,12 @@ toc: true
 cover: ""
 disable_comment: false
 description: ""
+tags : [
+  "Hugo","Kagome"
+]
+categories : [
+  "Hugo",
+]
 ---
 在文章页里，在banner中会展示`Front Matter`中的如下字段:
 - **title** 标题
@@ -74,3 +80,13 @@ description = "玩器材的永远不懂摄影 -- 冠希哥"
 +++
 ```
 
+## Hugo相关
+
+以下是对Hugo字段的解释： 
+
+- `title: "Archives"`（标题）：指定存档页面的标题。  
+- `layout: archives`（布局）：指定使用的布局模板，即用于呈现存档页面的模板。默认是当前目录名路径下对应的html模板.  
+- `hidden: true`（隐藏）：指定是否隐藏存档页面。如果设置为true，则存档页面将不会在导航菜单或其他页面中显示。 
+- `type: hugo`（类型）：指定页面类型为Hugo。这个字段可能在某些主题或模板中用于特定的处理逻辑。默认类型是当前目录名。比如type="page"则layout模板的目录下的文件就是page/(layout的属性值).html。
+- `summary: "历史文章按照年月归档."`（摘要）：提供了存档页面的摘要或描述信息。这个字段可以用于在存档页面中显示一段简短的介绍。  
+- `url: /archives/`（URL）：指定存档页面的URL路径。这个字段定义了存档页面在网站中的位置。  

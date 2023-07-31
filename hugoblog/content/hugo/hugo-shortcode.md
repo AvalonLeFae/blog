@@ -4,12 +4,18 @@ date: 2023-07-25T00:00:00+08:00
 draft: false
 aplayer: true
 dplayer: true
+tags : [
+  "Hugo","Kagome"
+]
+categories : [
+  "Hugo",
+]
 ---
 # Shortcode示例
 
 ## BiliBili
 
-{{<bilibili src="//player.bilibili.com/player.html?aid=973574581&bvid=BV1144y167iZ&cid=352795710&page=1">}}
+{{<bilibili src="//player.bilibili.com/player.html?aid=446565337&bvid=BV1hj4119731&cid=1214970405&page=1">}}
 
 ## APlayer
 

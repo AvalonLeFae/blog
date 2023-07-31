@@ -6,6 +6,7 @@ paginate = 7
 copyright = "© 2023 <a href=\"https://github.com/AvalonLeFae\">AvalonLeFae</a>."
 hasCJKLanguage = true
 #defaultContentLanguage="zh-cn"
+disqusShortname = 'example-com'
 
 # 作者信息
 [author]
@@ -25,32 +26,13 @@ weight = 1
 identifier = "/CATEGORIES"
 name = "CATEGORIES"
 url = "/CATEGORIES"
-weight = 4
+weight = 2
 [[menu.main]]
 identifier = "/TAGS"
 name = "TAGS"
 url = "/TAGS"
-weight = 5
-
-#======================
-[[menu.main]]
-identifier = "/FOLDER"
-name = "FOLDER"
-url = "/FOLDER"
-weight = 2
-[[menu.main]]
-identifier = "/ARCHIVES"
-name = "ARCHIVES"
-url = "/ARCHIVES"
 weight = 3
 
-
-[[menu.main]]
-identifier = "/link"
-name = "LINK"
-url = "/link"
-weight = 10
-#=======================
 
 # 底部社交图标
 [[menu.social]]
