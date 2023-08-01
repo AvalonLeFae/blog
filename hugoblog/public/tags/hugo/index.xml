@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on 妖精円卓領域 アヴァロン･ル･フェ</title>
+    <link>https://example.com/tags/hugo/</link>
+    <description>Recent content in Hugo on 妖精円卓領域 アヴァロン･ル･フェ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>xx@xx.com (Mélusine)</managingEditor>
+    <webMaster>xx@xx.com (Mélusine)</webMaster>
+    <copyright>© 2023 &lt;a href=&#34;https://github.com/AvalonLeFae&#34;&gt;AvalonLeFae&lt;/a&gt;.</copyright>
+    <lastBuildDate>Fri, 28 Jul 2023 18:04:00 +0800</lastBuildDate><atom:link href="https://example.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Layouts Folder</title>
+      <link>https://example.com/hugo/hugo-layouts/</link>
+      <pubDate>Fri, 28 Jul 2023 18:04:00 +0800</pubDate>
+      <author>xx@xx.com (Mélusine)</author>
+      <guid>https://example.com/hugo/hugo-layouts/</guid>
+      <description>hugo主目录 在Hugo中，有一些重要的目录，每个目录都有特定的作用。以下是Hugo目录的常见用途： content 目录：这个目录用于存放网站的内容文件，</description>
+    </item>
+    
+    <item>
+      <title>Kagome Banner</title>
+      <link>https://example.com/hugo/kagome-banner/</link>
+      <pubDate>Fri, 28 Jul 2023 18:04:00 +0800</pubDate>
+      <author>xx@xx.com (Mélusine)</author>
+      <guid>https://example.com/hugo/kagome-banner/</guid>
+      <description>在文章页里，在banner中会展示Front Matter中的如下字段: title 标题 date 发布时间 categories 分类 没有则不展示 tags 标签 没有则不展示 cover 封面(背景图) 没</description>
+    </item>
+    
+    <item>
+      <title>Kagome Front Matter</title>
+      <link>https://example.com/hugo/kagome-front-matter/</link>
+      <pubDate>Fri, 28 Jul 2023 18:04:00 +0800</pubDate>
+      <author>xx@xx.com (Mélusine)</author>
+      <guid>https://example.com/hugo/kagome-front-matter/</guid>
+      <description>Front Matter Front Matter一般放在文章的最顶部，Hugo支持三种书写格式， TOML使用+++来包裹内容 YAML使用&amp;mdash;来包裹内容 JSON使</description>
+    </item>
+    
+    <item>
+      <title>Hugo Config Link</title>
+      <link>https://example.com/hugo/hugo-config/</link>
+      <pubDate>Tue, 25 Jul 2023 00:24:20 +0800</pubDate>
+      <author>xx@xx.com (Mélusine)</author>
+      <guid>https://example.com/hugo/hugo-config/</guid>
+      <description>动手写一个 Hugo 博客主题 hugo中文帮助文档 Hugo模板的基本语法 Kagome Docs Hugo 不完美教程</description>
+    </item>
+    
+    <item>
+      <title>Hugo Shortcode Example</title>
+      <link>https://example.com/hugo/hugo-shortcode/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0800</pubDate>
+      <author>xx@xx.com (Mélusine)</author>
+      <guid>https://example.com/hugo/hugo-shortcode/</guid>
+      <description>Shortcode示例 BiliBili APlayer DPlayer Youtube</description>
+    </item>
+    
+  </channel>
+</rss>
