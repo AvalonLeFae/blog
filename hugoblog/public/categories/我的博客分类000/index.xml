@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>我的博客分类000 on 妖精円卓領域 アヴァロン･ル･フェ</title>
-    <link>https://example.com/categories/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%86%E7%B1%BB000/</link>
+    <link>https://AvalonLeFae.github.io/hugoblog/categories/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%86%E7%B1%BB000/</link>
     <description>Recent content in 我的博客分类000 on 妖精円卓領域 アヴァロン･ル･フェ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>xx@xx.com (Mélusine)</managingEditor>
     <webMaster>xx@xx.com (Mélusine)</webMaster>
     <copyright>© 2023 &lt;a href=&#34;https://github.com/AvalonLeFae&#34;&gt;AvalonLeFae&lt;/a&gt;.</copyright>
-    <lastBuildDate>Tue, 01 Aug 2023 02:38:23 +0800</lastBuildDate><atom:link href="https://example.com/categories/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%86%E7%B1%BB000/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Aug 2023 02:38:23 +0800</lastBuildDate><atom:link href="https://AvalonLeFae.github.io/hugoblog/categories/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%86%E7%B1%BB000/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git</title>
-      <link>https://example.com/git/git/</link>
+      <link>https://AvalonLeFae.github.io/hugoblog/git/git/</link>
       <pubDate>Tue, 01 Aug 2023 02:38:23 +0800</pubDate>
       <author>xx@xx.com (Mélusine)</author>
-      <guid>https://example.com/git/git/</guid>
+      <guid>https://AvalonLeFae.github.io/hugoblog/git/git/</guid>
       <description>这里是Markdown 正文</description>
     </item>
     

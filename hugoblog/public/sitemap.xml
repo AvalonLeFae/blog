@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/categories/</loc>
     <lastmod>2023-08-01T02:38:23+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/git/git/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/git/git/</loc>
     <lastmod>2023-08-01T02:38:23+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/git/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/git/</loc>
     <lastmod>2023-08-01T02:38:23+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/tags/</loc>
     <lastmod>2023-08-01T02:38:23+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/</loc>
     <lastmod>2023-08-01T02:38:23+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%86%E7%B1%BB000/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/categories/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%86%E7%B1%BB000/</loc>
     <lastmod>2023-08-01T02:38:23+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%A0%87%E7%AD%BE000/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/tags/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%A0%87%E7%AD%BE000/</loc>
     <lastmod>2023-08-01T02:38:23+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/about/</loc>
     <lastmod>2023-07-29T00:24:20+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/archives/</loc>
     <lastmod>2023-07-29T00:24:20+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/directory/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/directory/</loc>
     <lastmod>2023-07-29T00:24:20+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/link/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/link/</loc>
     <lastmod>2023-07-29T00:24:20+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/page/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/page/</loc>
     <lastmod>2023-07-29T00:24:20+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/hugo/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/tags/hugo/</loc>
     <lastmod>2023-07-28T18:04:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/hugo/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/categories/hugo/</loc>
     <lastmod>2023-07-28T18:04:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/hugo/hugo-layouts/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/hugo/hugo-layouts/</loc>
     <lastmod>2023-07-28T18:04:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/hugo/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/hugo/</loc>
     <lastmod>2023-07-28T18:04:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/kagome/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/tags/kagome/</loc>
     <lastmod>2023-07-28T18:04:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/hugo/kagome-banner/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/hugo/kagome-banner/</loc>
     <lastmod>2023-07-28T18:04:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/hugo/kagome-front-matter/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/hugo/kagome-front-matter/</loc>
     <lastmod>2023-07-28T18:04:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/extra/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/extra/</loc>
     <lastmod>2023-07-25T00:24:20+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/hugo/hugo-config/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/hugo/hugo-config/</loc>
     <lastmod>2023-07-25T00:24:20+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/extra/todolist/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/extra/todolist/</loc>
     <lastmod>2023-07-25T00:24:20+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/extra/health/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/extra/health/</loc>
     <lastmod>2023-07-25T00:24:20+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/hugo/hugo-shortcode/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/hugo/hugo-shortcode/</loc>
     <lastmod>2023-07-25T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/message/</loc>
+    <loc>https://AvalonLeFae.github.io/hugoblog/message/</loc>
     <lastmod>2022-07-29T00:24:20+08:00</lastmod>
   </url>
 </urlset>

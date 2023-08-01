@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extra on 妖精円卓領域 アヴァロン･ル･フェ</title>
-    <link>https://example.com/extra/</link>
+    <link>https://AvalonLeFae.github.io/hugoblog/extra/</link>
     <description>Recent content in Extra on 妖精円卓領域 アヴァロン･ル･フェ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>xx@xx.com (Mélusine)</managingEditor>
     <webMaster>xx@xx.com (Mélusine)</webMaster>
     <copyright>© 2023 &lt;a href=&#34;https://github.com/AvalonLeFae&#34;&gt;AvalonLeFae&lt;/a&gt;.</copyright>
-    <lastBuildDate>Tue, 25 Jul 2023 00:24:20 +0800</lastBuildDate><atom:link href="https://example.com/extra/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jul 2023 00:24:20 +0800</lastBuildDate><atom:link href="https://AvalonLeFae.github.io/hugoblog/extra/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Todolist</title>
-      <link>https://example.com/extra/todolist/</link>
+      <link>https://AvalonLeFae.github.io/hugoblog/extra/todolist/</link>
       <pubDate>Tue, 25 Jul 2023 00:24:20 +0800</pubDate>
       <author>xx@xx.com (Mélusine)</author>
-      <guid>https://example.com/extra/todolist/</guid>
-      <description>1.博客TODO:输入页码跳转&amp;amp; 关键词搜索</description>
+      <guid>https://AvalonLeFae.github.io/hugoblog/extra/todolist/</guid>
+      <description>1.博客TODO:输入页码跳转&amp;amp;关键词搜索</description>
     </item>
     
     <item>
       <title>体检</title>
-      <link>https://example.com/extra/health/</link>
+      <link>https://AvalonLeFae.github.io/hugoblog/extra/health/</link>
       <pubDate>Tue, 25 Jul 2023 00:24:20 +0800</pubDate>
       <author>xx@xx.com (Mélusine)</author>
-      <guid>https://example.com/extra/health/</guid>
+      <guid>https://AvalonLeFae.github.io/hugoblog/extra/health/</guid>
       <description>1.肺癌：低剂量螺旋CT 2.胃癌：胃镜 3.结直肠癌：肠镜 4.肝癌：腹部彩超+甲胎蛋白定量（肝癌肿瘤标志物） 5.鼻咽癌：电子鼻咽镜+eb病毒检</description>
     </item>
     

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gits on 妖精円卓領域 アヴァロン･ル･フェ</title>
-    <link>https://example.com/git/</link>
+    <link>https://AvalonLeFae.github.io/hugoblog/git/</link>
     <description>Recent content in Gits on 妖精円卓領域 アヴァロン･ル･フェ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>xx@xx.com (Mélusine)</managingEditor>
     <webMaster>xx@xx.com (Mélusine)</webMaster>
     <copyright>© 2023 &lt;a href=&#34;https://github.com/AvalonLeFae&#34;&gt;AvalonLeFae&lt;/a&gt;.</copyright>
-    <lastBuildDate>Tue, 01 Aug 2023 02:38:23 +0800</lastBuildDate><atom:link href="https://example.com/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Aug 2023 02:38:23 +0800</lastBuildDate><atom:link href="https://AvalonLeFae.github.io/hugoblog/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git</title>
-      <link>https://example.com/git/git/</link>
+      <link>https://AvalonLeFae.github.io/hugoblog/git/git/</link>
       <pubDate>Tue, 01 Aug 2023 02:38:23 +0800</pubDate>
       <author>xx@xx.com (Mélusine)</author>
-      <guid>https://example.com/git/git/</guid>
+      <guid>https://AvalonLeFae.github.io/hugoblog/git/git/</guid>
       <description>这里是Markdown 正文</description>
     </item>
     

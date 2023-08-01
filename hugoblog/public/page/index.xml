@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on 妖精円卓領域 アヴァロン･ル･フェ</title>
-    <link>https://example.com/page/</link>
+    <link>https://AvalonLeFae.github.io/hugoblog/page/</link>
     <description>Recent content in Pages on 妖精円卓領域 アヴァロン･ル･フェ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>xx@xx.com (Mélusine)</managingEditor>
     <webMaster>xx@xx.com (Mélusine)</webMaster>
     <copyright>© 2023 &lt;a href=&#34;https://github.com/AvalonLeFae&#34;&gt;AvalonLeFae&lt;/a&gt;.</copyright>
-    <lastBuildDate>Sat, 29 Jul 2023 00:24:20 +0800</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jul 2023 00:24:20 +0800</lastBuildDate><atom:link href="https://AvalonLeFae.github.io/hugoblog/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ABOUT</title>
-      <link>https://example.com/about/</link>
+      <link>https://AvalonLeFae.github.io/hugoblog/about/</link>
       <pubDate>Sat, 29 Jul 2023 00:24:20 +0800</pubDate>
       <author>xx@xx.com (Mélusine)</author>
-      <guid>https://example.com/about/</guid>
+      <guid>https://AvalonLeFae.github.io/hugoblog/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ARCHIVES</title>
-      <link>https://example.com/archives/</link>
+      <link>https://AvalonLeFae.github.io/hugoblog/archives/</link>
       <pubDate>Sat, 29 Jul 2023 00:24:20 +0800</pubDate>
       <author>xx@xx.com (Mélusine)</author>
-      <guid>https://example.com/archives/</guid>
+      <guid>https://AvalonLeFae.github.io/hugoblog/archives/</guid>
       <description>历史文件归档</description>
     </item>
     
     <item>
       <title>DIRECTORY</title>
-      <link>https://example.com/directory/</link>
+      <link>https://AvalonLeFae.github.io/hugoblog/directory/</link>
       <pubDate>Sat, 29 Jul 2023 00:24:20 +0800</pubDate>
       <author>xx@xx.com (Mélusine)</author>
-      <guid>https://example.com/directory/</guid>
+      <guid>https://AvalonLeFae.github.io/hugoblog/directory/</guid>
       <description>按目录浏览</description>
     </item>
     
     <item>
       <title>LINK</title>
-      <link>https://example.com/link/</link>
+      <link>https://AvalonLeFae.github.io/hugoblog/link/</link>
       <pubDate>Sat, 29 Jul 2023 00:24:20 +0800</pubDate>
       <author>xx@xx.com (Mélusine)</author>
-      <guid>https://example.com/link/</guid>
+      <guid>https://AvalonLeFae.github.io/hugoblog/link/</guid>
       <description>这是一个友链的内容界面</description>
     </item>
     
     <item>
       <title>LINK</title>
-      <link>https://example.com/message/</link>
+      <link>https://AvalonLeFae.github.io/hugoblog/message/</link>
       <pubDate>Fri, 29 Jul 2022 00:24:20 +0800</pubDate>
       <author>xx@xx.com (Mélusine)</author>
-      <guid>https://example.com/message/</guid>
+      <guid>https://AvalonLeFae.github.io/hugoblog/message/</guid>
       <description>评论页面</description>
     </item>
     
